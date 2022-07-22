@@ -43,6 +43,7 @@
 .body__songs{
     margin: 20px --30px;
     z-index: 1;
+    margin-bottom:4em ;
     
 }
 .body__icons > .MuiSvgIcon-root {
